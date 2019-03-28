@@ -1,0 +1,11 @@
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\bin\Debug\Projeto topicos de seguranca.exe.config
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\bin\Debug\Projeto topicos de seguranca.exe
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\bin\Debug\Projeto topicos de seguranca.pdb
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto topicos de seguranca.csprojAssemblyReference.cache
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto_topicos_de_seguranca.Properties.Resources.resources
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto topicos de seguranca.csproj.GenerateResource.cache
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto topicos de seguranca.csproj.CoreCompileInputs.cache
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto topicos de seguranca.exe
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto topicos de seguranca.pdb
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto_topicos_de_seguranca.LoginJogo.resources
+C:\Users\2180714\source\repos\Projeto topicos de seguranca\Projeto topicos de seguranca\obj\Debug\Projeto_topicos_de_seguranca.Marcagolo.resources

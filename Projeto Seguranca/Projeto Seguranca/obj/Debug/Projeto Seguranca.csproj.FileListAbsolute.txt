@@ -1,0 +1,12 @@
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto Seguranca.csprojAssemblyReference.cache
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto_Seguranca.Login.resources
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto_Seguranca.Marcador.resources
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto_Seguranca.Properties.Resources.resources
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto Seguranca.csproj.GenerateResource.cache
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\bin\Debug\Projeto Seguranca.exe.config
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\bin\Debug\Projeto Seguranca.exe
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\bin\Debug\Projeto Seguranca.pdb
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto_Seguranca.Defesa.resources
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto Seguranca.exe
+C:\Users\2180714\source\repos\Projeto Seguranca\Projeto Seguranca\obj\Debug\Projeto Seguranca.pdb
